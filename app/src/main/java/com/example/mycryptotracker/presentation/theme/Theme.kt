@@ -1,4 +1,4 @@
-package com.example.mycryptotracker.ui.theme
+package com.example.mycryptotracker.presentation.theme
 
 import android.app.Activity
 import android.os.Build
